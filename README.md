@@ -257,3 +257,9 @@ Made with 🧠 by developers, for developers. No sponsorships. No affiliate link
 <div align="center">
 <sub>Last verified: April 2026 · Updated weekly · 100% community-maintained</sub>
 </div>
+
+### [TokenHub](https://t-hub.cc) - AI API Relay
+> Access 50+ Chinese AI models through one OpenAI-compatible endpoint. No ID required.
+> **DeepSeek V3, Qwen, GLM, MiniMax** | Pay-as-you-go from /usr/bin/bash.01/M tokens
+> Free tier available | OpenAI SDK compatible
+
