@@ -72,8 +72,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Hugging Face Inference**](https://huggingface.co/inference-api) | All public models | Rate-limited | Varies | Slow-Moderate | Best open-source hub |
 | 🟤 [**Novita AI**](https://novita.ai) | Llama + others | $0.50 credit | 128K | Fast | Renews monthly |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ models | Free models available | Varies | Varies | Single API for all |
-
----
+| 🟡 [**CoderPlan**](https://coderplan.ai) | Claude / GPT / Gemini / DeepSeek | Free credits for new users | 200K+ | Fast | OpenAI-compatible gateway for Claude Code / Cursor |
 
 ## 🎨 Free AI Image & Video Generation (No Credit Card Required)
 
