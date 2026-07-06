@@ -257,3 +257,4 @@ Made with 🧠 by developers, for developers. No sponsorships. No affiliate link
 <div align="center">
 <sub>Last verified: April 2026 · Updated weekly · 100% community-maintained</sub>
 </div>
+- [FreeAIStack](https://aifreeaistack.com) — FreeAIStack - 14 free AI tools: resume optimizer, email assistant, content & image generators. No signup needed for most tools.
