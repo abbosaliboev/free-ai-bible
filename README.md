@@ -49,6 +49,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 - [🚀 Free AI Hosting & Deployment](#-fully-free-ai-hosting--deployment)
 - [🖥️ Local AI Tools That Beat Paid Alternatives](#️-local-ai-tools-that-outperform-paid-ones)
 - [📦 Embeddings & Vector Databases](#-embeddings--vector-databases-free-tier)
+- [📈 AI Evaluation & Benchmarking](#-ai-evaluation--benchmarking)
 - [🎙️ Speech, Audio & Transcription](#️-speech-audio--transcription)
 - [📊 Cost Comparison](#-cost-comparison)
 - [⚡ Quick Start Guide](#-quick-start-guide)
@@ -132,6 +133,18 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Cohere Embed**](https://cohere.com) | Embeddings API | 100 req/min | 1024 | Multilingual |
 | ⚪ [**Nomic Embed**](https://nomic.ai) | Embeddings API | 10K req/month | 768 | Open-source model |
 | 🟠 [**Chroma (local)**](https://trychroma.com) | Vector DB | Unlimited | Unlimited | Run locally |
+
+---
+
+## 📈 AI Evaluation & Benchmarking
+
+| Tool | Type | Free Tier | Best For | Notes |
+|------|------|-----------|----------|-------|
+| 🧪 [**DeepEval**](https://github.com/confident-ai/deepeval) | Open-source framework | Unlimited (Apache 2.0) | Unit testing LLM outputs | Pytest-style, runs locally |
+| 📐 [**Ragas**](https://github.com/explodinggradients/ragas) | Open-source framework | Unlimited (Apache 2.0) | RAG pipeline evaluation | Reference-free metrics |
+| 🔭 [**Phoenix (Arize)**](https://github.com/Arize-ai/phoenix) | Open-source observability | Unlimited (self-hosted) | Tracing + evals | No cloud dependency |
+| 🧠 [**Braintrust**](https://www.braintrust.dev) | Eval platform | 10K scores/month | Eval-first workflows | Unlimited users on free tier |
+| 🔗 [**LangSmith**](https://smith.langchain.com) | Eval + tracing platform | 5K traces/month | LangChain apps | 1 seat free, no CC required |
 
 ---
 
