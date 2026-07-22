@@ -58,6 +58,7 @@ Saqlang. Yulduz bering. Ulashing. Kerak bo'lganda qaytib keling.
 | 🟡 [**Cerebras**](https://cerebras.ai) | Llama 3.1 70B | Daqiqada 30 so'rov | 128K | 🔥 Ultra-tez | Yangi — kam baholangan |
 | ⚪ [**Cloudflare Workers AI**](https://developers.cloudflare.com/workers-ai) | 30+ model | Kuniga 10K neyron | Turlicha | Edge-tez | Global edge tarmog'i |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ model | Bepul modellar mavjud | Turlicha | Turlicha | Barcha modellarga yagona API |
+| 🟦 [**AI Router**](https://ai-router.dev/uz/) | ChatGPT / GPT modellari | Ro'yxatdan o'tganda 5U gacha foydalanish mumkin; 15U gacha API foydalanishiga qarab bosqichma-bosqich ochiladi | Modelga qarab | Modelga qarab | OpenAI bilan mos API vositachisi; kunlik check-in kamida 1U (1U + oldingi kundagi foydalanishning 2%, 10U gacha); mukofot shartlari qo'llaniladi |
 
 ---
 

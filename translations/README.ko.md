@@ -56,6 +56,7 @@
 | 🟡 [**Cerebras**](https://cerebras.ai) | Llama 3.1 70B | 30 요청/분 | 128K | 🔥 초고속 | 신규 — 저평가됨 |
 | ⚪ [**Cloudflare Workers AI**](https://developers.cloudflare.com/workers-ai) | 30+ 모델 | 일 1만 뉴런 | 다양 | 엣지 빠름 | 글로벌 엣지 네트워크 |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ 모델 | 무료 모델 있음 | 다양 | 다양 | 모든 모델 단일 API |
+| 🟦 [**AI Router**](https://ai-router.dev/ko/) | ChatGPT / GPT 모델 | 가입 시 최대 5U 사용 가능; 최대 15U는 API 사용에 따라 단계적으로 해제 | 모델별 상이 | 모델별 상이 | OpenAI 호환 API 릴레이; 매일 체크인은 최소 1U(1U + 전일 사용액의 2%, 최대 10U); 보상 조건 적용 |
 
 ---
 
