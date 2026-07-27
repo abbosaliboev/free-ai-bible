@@ -72,6 +72,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Hugging Face Inference**](https://huggingface.co/inference-api) | All public models | Rate-limited | Varies | Slow-Moderate | Best open-source hub |
 | 🟤 [**Novita AI**](https://novita.ai) | Llama + others | $0.50 credit | 128K | Fast | Renews monthly |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ models | Free models available | Varies | Varies | Single API for all |
+| 🟦 [**AI Router**](https://ai-router.dev) | ChatGPT / GPT models | 5U unlocked immediately after registration; an additional 15U remains frozen and is released gradually through actual API usage | Varies | Varies | OpenAI-compatible API relay; daily check-in: at least 1U (1U + 2% of previous-day use, capped at 10U); reward terms apply |
 
 ---
 

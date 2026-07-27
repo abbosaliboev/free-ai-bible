@@ -56,6 +56,7 @@ Guárdalo. Dale estrella. Compártelo. Vuelve cuando lo necesites.
 | 🟡 [**Cerebras**](https://cerebras.ai) | Llama 3.1 70B | 30 req/min | 128K | 🔥 Ultra-rápido | Nuevo — subestimado |
 | ⚪ [**Cloudflare Workers AI**](https://developers.cloudflare.com/workers-ai) | 30+ modelos | 10K neuronas/día | Varía | Edge-rápido | Red edge global |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ modelos | Modelos gratuitos | Varía | Varía | API única para todos |
+| 🟦 [**AI Router**](https://ai-router.dev/es/) | ChatGPT / modelos GPT | 5U se desbloquean al registrarse; otros 15U permanecen congelados y se liberan gradualmente según el uso real de la API | Varía | Varía | Pasarela de API compatible con OpenAI; check-in diario: al menos 1U (1U + 2% del uso del día anterior, máximo 10U); se aplican las condiciones de recompensa |
 
 ---
 

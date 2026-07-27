@@ -60,6 +60,7 @@
 | ⚪ [**Cloudflare Workers AI**](https://developers.cloudflare.com/workers-ai) | 30+模型 | 每天1万神经元 | 不定 | 边缘快速 | 全球边缘网络 |
 | 🔵 [**Hugging Face推理**](https://huggingface.co/inference-api) | 所有公开模型 | 有速率限制 | 不定 | 慢到中等 | 最佳开源中心 |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+模型 | 有免费模型 | 不定 | 不定 | 统一API访问所有模型 |
+| 🟦 [**AI Router**](https://ai-router.dev/cn/) | ChatGPT / GPT 模型 | 注册即解锁 5U；另有 15U 保持冻结，并随真实 API 使用逐步释放 | 因模型而异 | 因模型而异 | OpenAI 兼容 API 中转；每日签到至少 1U（1U + 昨日消费的 2%，上限 10U）；奖励以规则为准 |
 
 ---
 
