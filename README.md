@@ -83,6 +83,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🎨 [**Leonardo.ai**](https://leonardo.ai) | Image | 150 tokens/day | ⭐⭐⭐⭐⭐ | Photorealistic, no CC |
 | 🖌️ [**Adobe Firefly**](https://firefly.adobe.com) | Image | 25 gen/month | ⭐⭐⭐⭐ | Commercial safe outputs |
 | ✨ [**Ideogram**](https://ideogram.ai) | Image + Text | 10 free/day | ⭐⭐⭐⭐ | Best AI text-in-image |
+| 🖼️ [**ImageChanger**](https://aiimagechanger.app/) | Image Editing | 10 signup credits (30 days) | ⭐⭐⭐⭐ | Background, portrait, product, restoration, and style edits; no credit card |
 | 🌊 [**Flux (via Replicate)**](https://replicate.com) | Image | $5 free credit | ⭐⭐⭐⭐⭐ | State-of-the-art 2026 |
 | 🎬 [**Kling AI**](https://klingai.com) | Video | 66 credits/day | ⭐⭐⭐⭐ | No CC, high quality |
 | 🎥 [**Hailuo AI**](https://hailuoai.com) | Video | 10 clips/day | ⭐⭐⭐⭐ | Excellent motion |
