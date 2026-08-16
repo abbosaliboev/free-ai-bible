@@ -119,6 +119,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔍 [**LocalAI**](https://localai.io) | OpenAI-compatible API | Drop-in replacement | 100+ models |
 | 🧠 [**Jan.ai**](https://jan.ai) | Local chat UI | Privacy-first, offline | All major open models |
 | 🤖 [**Open WebUI**](https://github.com/open-webui/open-webui) | ChatGPT-like UI | Self-hosted, feature-rich | Ollama + any OpenAI API |
+| 🧪 [**Agent QA**](https://github.com/vostride/agent-qa)       | QA automation         | Natural-language web/mobile tests with persistent memory; FSL-1.1-ALv2 → Apache-2.0 after two years | OpenAI-/Anthropic-compatible, Gemini, local models |
 
 ---
 
