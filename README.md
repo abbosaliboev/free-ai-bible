@@ -72,6 +72,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Hugging Face Inference**](https://huggingface.co/inference-api) | All public models | Rate-limited | Varies | Slow-Moderate | Best open-source hub |
 | 🟤 [**Novita AI**](https://novita.ai) | Llama + others | $0.50 credit | 128K | Fast | Renews monthly |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ models | Free models available | Varies | Varies | Single API for all |
+| 🟢 [**TokenWorks**](https://www.token8341.com) | GPT-4o, Claude, Gemini, DeepSeek, Qwen, ERNIE, Doubao, Pangu | Free trial credits on signup | Up to 1M | Fast | No card required; OpenAI + Anthropic compatible |
 
 ---
 
