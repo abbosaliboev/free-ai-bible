@@ -72,6 +72,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🔵 [**Hugging Face Inference**](https://huggingface.co/inference-api) | All public models | Rate-limited | Varies | Slow-Moderate | Best open-source hub |
 | 🟤 [**Novita AI**](https://novita.ai) | Llama + others | $0.50 credit | 128K | Fast | Renews monthly |
 | 🟣 [**OpenRouter**](https://openrouter.ai) | 50+ models | Free models available | Varies | Varies | Single API for all |
+| 🟢 [**Gonka AI Drop**](https://aidrop.gnk.space) | DeepSeek V4-Flash, GLM-5.3-Flash, MiniMax M2.7 | 100M tokens (one-time, Gonka DAHL) | 380K–400K | Moderate | No CC: DAHL sign-up asks for a username only |
 
 ---
 
