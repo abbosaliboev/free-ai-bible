@@ -145,6 +145,7 @@ Bookmark it. Star it. Share it. Come back when you need it.
 | 🎵 [**Suno**](https://suno.com) | Music generation | 50 songs/day | ⭐⭐⭐⭐ | No CC required |
 | 🎶 [**Udio**](https://udio.com) | Music generation | 300 songs/month | ⭐⭐⭐⭐ | Excellent quality |
 | 📝 [**AssemblyAI**](https://assemblyai.com) | Transcription | 5 hours free | ⭐⭐⭐⭐ | Speaker detection |
+| 🎧 [**VocalSeparator**](https://vocalseparator.com/) | Vocal/stem separation | 5 jobs/browser/UTC day; 10 min/100 MB per file | Not independently benchmarked | No sign-up or card; WAV tracks and practice controls; shared capacity, temporary results, optional paid credits |
 
 ---
 
