@@ -32,8 +32,8 @@ test('search treats text as data and reports no matches',()=>{
   const {ids,context}=setup();ids.search.value='<script>alert(1)</script>';ids.search.listeners.input();assert.equal(ids.results.children[0].className,'empty');assert.match(context.history.url,/%3Cscript%3E/);
 });
 test('saved-only filter follows save/un-save and reset',()=>{
-  const {ids}=setup();const first=ids.results.children[0];first.children.at(-1).children[1].listeners.click();ids.favorites.checked=true;ids.favorites.listeners.change();assert.equal(ids.results.children.length,1);ids.results.children[0].children.at(-1).children[1].listeners.click();assert.equal(ids.results.children[0].className,'empty');ids.reset.listeners.click();assert.equal(ids.results.children.length,34);
+  const {ids}=setup();const first=ids.results.children[0];first.children.at(-1).children[1].listeners.click();ids.favorites.checked=true;ids.favorites.listeners.change();assert.equal(ids.results.children.length,1);ids.results.children[0].children.at(-1).children[1].listeners.click();assert.equal(ids.results.children[0].className,'empty');ids.reset.listeners.click();assert.equal(ids.results.children.length,35);
 });
 test('disabled browser storage does not stop the directory',()=>{
-  const {ids}=setup('',true);ids.results.children[0].children.at(-1).children[1].listeners.click();assert.match(ids.message.textContent,/unavailable/);assert.equal(ids.results.children.length,34);
+  const {ids}=setup('',true);ids.results.children[0].children.at(-1).children[1].listeners.click();assert.match(ids.message.textContent,/unavailable/);assert.equal(ids.results.children.length,35);
 });

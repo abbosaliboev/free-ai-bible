@@ -69,7 +69,7 @@ No affiliate links. No paid placement. Open to everyone.
 **☁️ Free tier** = hosted service with usage limits. **🖥️ Local** = run it yourself using your own hardware. Full limits, licenses and dated sources are in the [searchable directory](https://abbosaliboev.github.io/free-ai-bible/catalog.html).
 
 <!-- CATALOG:START -->
-**72 resources to explore.** Search, filter and save your favorites in the [interactive directory](https://abbosaliboev.github.io/free-ai-bible/catalog.html).
+**73 resources to explore.** Search, filter and save your favorites in the [interactive directory](https://abbosaliboev.github.io/free-ai-bible/catalog.html).
 
 <a id="llm-apis"></a>
 
@@ -121,6 +121,7 @@ Check the current plan before signing up. [Help update an entry →](CONTRIBUTIN
 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | Run GGUF models on CPU or GPU | Local |
 | [**MLX LM**](https://github.com/ml-explore/mlx-lm) | Run & fine-tune models on Apple silicon | Local · compatible Mac required |
 | [**Unsloth**](https://github.com/unslothai/unsloth) | Run & fine-tune supported models | Local · hardware varies |
+| [**agent-qa**](https://github.com/vostride/agent-qa) | Self-improving web/mobile QA with memidex memory; free for permitted use, with configured-provider costs separate. | local |
 
 <details>
 <summary>🔎 More tools to explore — current free access needs a fresh check</summary>

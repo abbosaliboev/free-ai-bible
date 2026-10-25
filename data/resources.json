@@ -1051,5 +1051,25 @@
     "reviewed": "2026-10-22",
     "verification": "docs-reviewed",
     "tags": []
+  },
+  {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "url": "https://github.com/vostride/agent-qa",
+    "category": "local",
+    "kind": "local",
+    "card": "conditional",
+    "summary": "Self-improving web/mobile QA with memidex memory; free for permitted use, with configured-provider costs separate.",
+    "limits": "FSL-1.1-ALv2 restricts competing commercial uses; each version converts to Apache-2.0 after two years. Node.js 24+ and model/browser/device setup required. Chosen providers may require payment or an account.",
+    "source": "https://github.com/vostride/agent-qa#readme",
+    "reviewed": "2026-10-25",
+    "verification": "docs-reviewed",
+    "tags": [
+      "testing",
+      "web",
+      "mobile",
+      "memory",
+      "mcp"
+    ]
   }
 ]
