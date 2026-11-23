@@ -99,6 +99,7 @@ Check the current plan before signing up. [Help update an entry →](CONTRIBUTIN
 
 | Tool | What you can do | Free access |
 |---|---|---|
+| [**Free Image to Video**](https://freeimagetovideo.ai/) | Free image to video AI with synchronized sound and no watermark | Start with no sign-up · no daily cap on free account |
 | [**FLUX.1 schnell**](https://github.com/black-forest-labs/flux/blob/main/README.md) | Generate images with downloadable weights | Local · Apache-2.0 variant |
 
 <details>
