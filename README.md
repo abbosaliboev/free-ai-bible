@@ -100,6 +100,7 @@ Check the current plan before signing up. [Help update an entry →](CONTRIBUTIN
 | Tool | What you can do | Free access |
 |---|---|---|
 | [**FLUX.1 schnell**](https://github.com/black-forest-labs/flux/blob/main/README.md) | Generate images with downloadable weights | Local · Apache-2.0 variant |
+| [**Kavel**](https://www.kavel.ai/) | Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card. | Web · Free, no account or card required |
 
 <details>
 <summary>🔎 More tools to explore — current free access needs a fresh check</summary>
